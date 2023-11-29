@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Beadando_ToDoList</string>
+    <string name="add_button_description">Add button to add new tasks to table</string>
+</resources>
